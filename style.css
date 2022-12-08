@@ -1,0 +1,48 @@
+@font-face {
+    font-family: tesla;
+    src: url(TESLA.ttf);
+}
+
+#fonty1{
+    font-family: tesla;
+}
+body{
+    background-image: url(https://tesla-cdn.thron.com/delivery/public/image/tesla/03e533bf-8b1d-463f-9813-9a597aafb280/bvlatuR/std/4096x2560/M3-Homepage-Desktop-LHD);
+    background-position: center;
+    background-attachment:scroll;
+    background-size:cover ;
+    min-height: 800px;
+    width:auto;
+    background-repeat: no-repeat;
+}
+#bar1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+    font-family: tesla;
+    position: fixed;
+    top: 30px;
+    width: 100%;
+}
+#bar2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1050px;
+    position: fixed;
+    top: 30px;
+    width: 100%;
+    font-size: medium;
+    font-family: tesla;
+    
+}
+/*
+#st1{
+   background-color: rgb(115, 117, 119); 
+     margin-right: 880px; 
+     font-size: x-large;
+     font:white;
+      margin-top: 300px;
+       margin-left: 300px;
+       border: 10px rgb(115,117,119);
+}*/
+
